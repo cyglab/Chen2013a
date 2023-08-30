@@ -1,1 +1,1 @@
-# Chen2013a
+# Codes for "The foundation of Fechner's law"
